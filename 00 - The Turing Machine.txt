@@ -6,26 +6,28 @@ Computing, therefore, it naturally overflowed to software.
 In Alan Turing's metaphor there are three components:
 1. An Actor
 2. A Machine
-3. A Very Very Very long tape. Like srsly long.
+3. A Long Tape
 
 In software the above three components can be decomposed into five:
-1. An Actor
+1. An Actor (or User)
   1.a Triggering Events
-    1.a.1 Events, are triggered based on a valid Set of Rules which can also be 
-          called a valid set of Possible States
+    1.a.1 Events, are triggered based on a valid Set of Rules (Moves or Features) which 
+          can transforms the Context within a valid set of Possible States.
+          
 2. Tape
-  2.b A Context representing a Valid State that changes for every Event
+  2.b A Context representing a Valid State that changes for every Event. The Context 
+      is usually in the form of a Database.
   
 3. The Machine
-  3.a A definition representing the Stateless definition manipulating Context to 
-      represent all valid States. The Machine also has state - it is Stateless State.
+  3.a Represents the Stateless definition manipulating Context to represent all valid 
+      States. The Machine also has state - it is Stateless. This is Software.
 
 Therefore, the five components are:
   1. A Singular (Singleton) Stateless Definition
   2. Actors
   3. Events
   4. Context
-  5. Set of States
+  5. Set of Possible States
 
 The above definition of #1 bears a striking resemblance to the concept of an absolute 
 abstract God (G) or to an absolute abstract Theory of Everything (ToE), i.e.:
