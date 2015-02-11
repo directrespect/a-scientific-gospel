@@ -126,7 +126,9 @@ Notes on the Chapters:
   
   Trinity           : Thor and Family. The Metaphor is now relevant.
   Faith and Conceit : Mulan, the LOTR, the Matrix, every videogame and story out there...
-  Turing Machine    : Alan Turing is now relevant. The Imitation Game - a movie based on his life.
+  Turing Machine    : Alan Turing is now relevant. The Imitation Game - a movie based on 
+                      his life.
+                      
   This One          : Of all occupations          - Computer Scientist, Hacker, 
                                                     Codebreaker, Author of Law
                       Of all places               - Derivative of A God.
