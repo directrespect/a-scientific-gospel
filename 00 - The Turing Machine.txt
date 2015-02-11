@@ -1,0 +1,40 @@
+When Alan Turing came up with the idea of the Machine, he was thinking of a 
+metaphorical physical one - he did not envision it as software. Regardless, the 
+principles of the Machine was based on recognized patterns in the discipline of 
+Computing, therefore, it naturally overflowed to software.
+
+In Alan Turing's metaphor there are three components:
+1. An Actor
+2. A Machine
+3. A Very Very Very long tape. Like srsly long.
+
+In software the above three components can be decomposed into five:
+1. An Actor
+  1.a Triggering Events
+    1.a.1 Events, are triggered based on a valid Set of Rules which can also be 
+          called a valid set of Possible States
+2. Tape
+  2.b A Context representing a Valid State that changes for every Event
+  
+3. The Machine
+  3.a A definition representing the Stateless definition manipulating Context to 
+      represent all valid States. The Machine also has state - it is Stateless State.
+
+Therefore, the five components are:
+  1. A Singular (Singleton) Stateless Definition
+  2. Actors
+  3. Events
+  4. Context
+  5. Set of States
+
+The above definition of #1 bears a striking resemblance to the concept of an absolute 
+abstract God (G) or to an absolute abstract Theory of Everything (ToE), i.e.:
+
+The Stateless Definition through which all Contexts pass through to transform from one valid State to another.
+
+Both (G) and (ToE) can be described using one word - Truth or (T).
+
+In Theology, the Gods are actors. The Stateless definition is Love. Already written there. 
+God is Love - 1 John. So in life, live for Love then. Concretions are secondary.
+
+As a Primer read TRINITY.xlsx
