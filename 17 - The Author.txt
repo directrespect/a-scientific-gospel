@@ -121,8 +121,8 @@ The Two Swords:
 Notes on the Chapters:
   
   The definitions of the Trinity, Faith, Conceit, Turing Machine and the Seven Seals are 
-  unique. All were validated - based on Logic. All should resound Truth. All were guided by 
-  Intuition - Pattern Recognition.
+  unique. All were validated - based on Logic as far as the author could reason. All 
+  should resound Truth and Love. All were guided by Intuition - Pattern Recognition.
   
   Trinity           : Thor and Family. The Metaphor is now relevant.
   Faith and Conceit : Mulan, the LOTR, the Matrix, every videogame and story out there...
@@ -158,8 +158,7 @@ On the Third Coming:
 Intellectual Honesty:
 
   Feel free to correct or disproof any of these chapters. These chapters will be re-factored
-  as understanding increases. The Author is a Programmer, an Author of Code - Law, a 
-  Hacker, a Codebreaker. Peter who holds the keys to breaking the Code.
+  as understanding increases. The proposed interpretation is open-source.
   
   
 Motivation:
