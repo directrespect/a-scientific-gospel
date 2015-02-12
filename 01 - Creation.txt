@@ -183,7 +183,7 @@ The Garden of Eden:
       [1] Like general anaesthesia for surgery.
       [2] Common word used was "rib", NIV states that "part" can also be used. It 
           is easier to create flesh from flesh.
-
+          
 
 Characters:
 
@@ -286,9 +286,18 @@ Notes on the Spirit:
 
 Notes on this Author:
   
-  I am a Theologian of the Scientific Mind - always aiming for Intellectual Honesty.
-  The Holy Spirit - Intuition guides me to understanding.
+  I am a hobby Theologian of the Scientific Mind - always aiming for Intellectual 
+  Honesty. The Holy Spirit - Intuition guides me to understanding. I have no formal
+  Theological training, but I have had experience as a Software Developer for 4 years.
+  I interpret the Bible by seeing the unseen - abstractions - Words to me are Interfaces,
+  Classes and Control Structures. Deriving definitions based on Lambda Calculus, though 
+  I do not use the jargon perfectly, I use it rather simply to make a point. In Java,
+  or OOP there is a Root definition, I use the definition of God in 1 John - Love. 
+  Therefore:
   
+  Let L be Love wherein  : L -> All Possible Notations
+  Let T be Truth wherein : L = T 
+  Therefore: All Truths are Love as Love is True.
 
 Notes on Biblical Authors:
 
